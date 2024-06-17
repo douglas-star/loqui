@@ -2,3 +2,7 @@
 # yarn lockfile v1
 
 
+copilot@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.npmjs.org/copilot/-/copilot-0.5.1.tgz"
+  integrity sha512-4neXNe1IvKwrNXECDVVihZD3NQaOOj/1aAZsoo1M3CoXLTOT03vWyGUOvgRj0xPUquGDjsjX0C8wcBLaTqd14g==

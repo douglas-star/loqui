@@ -1,3 +1,4 @@
+#sudo su 
 # This project is no longer maintained
 
 The gRPC ecosystem has advanced since we've written this project, and we've moved to using gRPC instead.
